@@ -1,6 +1,13 @@
 import "./App.css";
 import { Component } from "react";
 
+let boxes = [];
+let numBoxes = 24;
+
+for (i = 0; i < numBoxes, i++; ) {
+  Push(boxes) => 
+}
+
 class App extends Component {
   constructor(props) {
     super(props);
